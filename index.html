@@ -20,7 +20,7 @@ layout: default
         {% for photo in site.data.photos %}
         {% unless photo.skipped %}
         <article class="thumb" data-category="{{ photo.category }}">
-            <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ photo.filename }}" class="image" style="position: relative;">
+            <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ photo.filename }}" class="image">
                 <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ photo.filename }}" alt=""
                      data-name="{{ photo.filename }}"/>
                 <div class="exif-overlay" style="position: absolute; bottom: 10px; left: 10px; color: white; background: rgba(0,0,0,0.5); padding: 5px; font-size: 0.8em; pointer-events: none; opacity: 1; z-index: 100;">
