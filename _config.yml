@@ -1,0 +1,30 @@
+# Base configs
+baseurl: ""
+# baseurl: "" # Comment the above line and uncomment this to test the website locally
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Photography by Sriharsha"
+subtitle: "See the world through my eyes!"
+author: "Sriharsha"
+header:
+ title: "Photography"
+ subtitle: "by Sriharsha"
+footer:
+ name: "Hey there, my name is Sriharsha"
+ bio: "I love photography."
+ github: ""
+web_design: "AJ"
+
+social_urls:
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
+
+# Configure which exif data to display
+# Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
+exif: '[{"tag": "Model", "icon": "fa fa-camera-retro"}, {"tag": "FNumber", "icon": "far fa-dot-circle"}, {"tag": "ExposureTime", "icon": "far fa-clock"}, {"tag": "ISOSpeedRatings", "icon": "fa fa-info-circle"}]'
