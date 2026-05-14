@@ -16,17 +16,23 @@ layout: default
     </header>
 
     <!-- Main -->
-    <div id="main" data-exif='{{ site.exif }}'>
-        {% for image in site.static_files %}
-        {% if image.path contains 'fulls' %}
-        <article class="thumb">
-            <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
-                <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt=""
-                     data-name="{{ image.name }}"/></a>
-            <!--<h2></h2>
-            <p></p>-->
+    <div id="main">
+        {% for photo in site.data.photos %}
+        {% unless photo.skipped %}
+        <article class="thumb" data-category="{{ photo.category }}">
+            <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ photo.filename }}" class="image" style="position: relative;">
+                <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ photo.filename }}" alt=""
+                     data-name="{{ photo.filename }}"/>
+                <div class="exif-overlay" style="position: absolute; bottom: 10px; left: 10px; color: white; background: rgba(0,0,0,0.5); padding: 5px; font-size: 0.8em; pointer-events: none; opacity: 1; z-index: 100;">
+                    {% if photo.exif.model %}<i class="fa fa-camera-retro"></i> {{ photo.exif.model }} &nbsp;{% endif %}
+                    {% if photo.exif.aperture %}<i class="far fa-dot-circle"></i> {{ photo.exif.aperture }} &nbsp;{% endif %}
+                    {% if photo.exif.shutter_speed %}<i class="far fa-clock"></i> {{ photo.exif.shutter_speed }} &nbsp;{% endif %}
+                    {% if photo.exif.iso %}<i class="fa fa-info-circle"></i> ISO {{ photo.exif.iso }}{% endif %}
+                </div>
+            </a>
+            <h2>{{ photo.category }}</h2>
         </article>
-        {% endif %}
+        {% endunless %}
         {% endfor %}
     </div>
 

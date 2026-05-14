@@ -188,34 +188,22 @@
   
 	  // Set background.
 	  $image.css("background-image", "url(" + $image_img.attr("src") + ")");
-  
+	  $image.css("background-size", "contain");
+	  $image.css("background-repeat", "no-repeat");
+	  $image.css("background-position", "center");
+
 	  // Set background position.
 	  if ((x = $image_img.data("position"))) $image.css("background-position", x);
   
 	  // Hide original img.
 	  $image_img.hide();
-
-	  // EXIF data
-	  $image_img[0].addEventListener("load", function() {
-		EXIF.getData($image_img[0], function () {
-			exifDatas[$image_img.data('name')] = getExifDataMarkup(this);
-		});
-	  });
 	});
   
 	// Poptrox.
 	$main.poptrox({
 	  baseZIndex: 20000,
 	  caption: function ($a) {
-		var $image_img = $a.children('img');
-		var data = exifDatas[$image_img.data('name')];
-		if (data === undefined) {
-			// EXIF data					
-			EXIF.getData($image_img[0], function () {
-				data = exifDatas[$image_img.data('name')] = getExifDataMarkup(this);
-			});
-		}
-		return data !== undefined ? '<p>' + data + '</p>' : ' ';
+		return ' ';
 	},
 	  fadeSpeed: 300,
 	  onPopupClose: function () {

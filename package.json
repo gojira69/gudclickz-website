@@ -36,6 +36,9 @@
     "sass": "^1.25.0"
   },
   "dependencies": {
+    "body-parser": "^2.2.2",
+    "exifreader": "^4.38.1",
+    "express": "^5.2.1",
     "sharp": "^0.34.5"
   }
 }
