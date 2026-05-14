@@ -182,21 +182,8 @@
 	  // No image? Bail.
 	  if ($image.length == 0) return;
   
-	  // Image.
-	  // This sets the background of the "image" <span> to the image pointed to by its child
-	  // <img> (which is then hidden). Gives us way more flexibility.
-  
-	  // Set background.
-	  $image.css("background-image", "url(" + $image_img.attr("src") + ")");
-	  $image.css("background-size", "contain");
-	  $image.css("background-repeat", "no-repeat");
-	  $image.css("background-position", "center");
-
-	  // Set background position.
-	  if ((x = $image_img.data("position"))) $image.css("background-position", x);
-  
-	  // Hide original img.
-	  $image_img.hide();
+	  // Show img directly instead of using background image
+	  $image_img.show();
 	});
   
 	// Poptrox.

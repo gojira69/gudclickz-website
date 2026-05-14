@@ -128,7 +128,7 @@ app.post('/process', async (req, res) => {
                     iso: getDesc('ISOSpeedRatings') || getDesc('ISO'),
                     model: getDesc('Model'),
                     shutter_speed: getDesc('ExposureTime') ? getDesc('ExposureTime') + 's' : '',
-                    aperture: getDesc('FNumber') ? 'f/' + getDesc('FNumber') : ''
+                    aperture: getDesc('FNumber') ? (getDesc('FNumber').startsWith('f/') ? getDesc('FNumber') : 'f/' + getDesc('FNumber')) : ''
                 }
             });
             
