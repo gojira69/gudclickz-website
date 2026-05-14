@@ -5,3 +5,4 @@
 #main .thumb > .image { position: relative !important; display: block; height: auto !important; }
 #main .thumb img { width: 100%; height: auto; display: block; }
 #main .thumb { opacity: 1 !important; visibility: visible !important; }
+#main { opacity: 1 !important; visibility: visible !important; filter: none !important; display: block !important; }
