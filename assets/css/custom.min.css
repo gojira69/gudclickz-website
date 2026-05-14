@@ -6,3 +6,4 @@
 #main .thumb img { width: 100%; height: auto; display: block; }
 #main .thumb { opacity: 1 !important; visibility: visible !important; }
 #main { opacity: 1 !important; visibility: visible !important; filter: none !important; display: block !important; }
+#main .thumb img { display: block !important; }
