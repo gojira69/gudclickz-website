@@ -1,5 +1,588 @@
 [
   {
+    "filename": "31.jpg",
+    "category": "Night, Landscape",
+    "date": "2026-01-02T16:33:10Z",
+    "exif": {
+      "iso": 100,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/4000s",
+      "aperture": "f/13.0"
+    }
+  },
+  {
+    "filename": "28.jpg",
+    "category": "Nature, Landscape",
+    "date": "2026-01-02T16:30:49Z",
+    "exif": {
+      "iso": 200,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2500s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "58.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-30T15:18:25Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "57.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-30T15:18:01Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "56.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-30T15:17:59Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "55.jpg",
+    "category": "People, Black and White, Nature",
+    "date": "2025-12-30T14:51:04Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "54.jpg",
+    "category": "Nature, Black and White",
+    "date": "2025-12-30T14:48:38Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2000s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "52.jpg",
+    "category": "Nature",
+    "date": "2025-12-30T14:48:34Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2000s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "50.jpg",
+    "category": "People, Black and White, Nature",
+    "date": "2025-12-30T14:44:30Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/400s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "48.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:43:07Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1000s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "46-2.jpg",
+    "category": "People, Black and White, Nature",
+    "date": "2025-12-30T14:41:39Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "46.jpg",
+    "category": "People, Nature, Black and White",
+    "date": "2025-12-30T14:41:39Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "44-2.jpg",
+    "category": "People, Black and White, Nature",
+    "date": "2025-12-30T14:41:36Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "44.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:41:36Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "42.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:39:41Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "38.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:38:14Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/400s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "36.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:38:06Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/400s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "34.jpg",
+    "category": "Nature, People",
+    "date": "2025-12-30T14:37:20Z",
+    "exif": {
+      "iso": 320,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/400s",
+      "aperture": "f/5.0"
+    }
+  },
+  {
+    "filename": "32.jpg",
+    "category": "Nature, Landscape",
+    "date": "2025-12-30T12:01:58Z",
+    "exif": {
+      "iso": 320,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1000s",
+      "aperture": "f/5.0"
+    }
+  },
+  {
+    "filename": "30.jpg",
+    "category": "Nature",
+    "date": "2025-12-30T11:01:07Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2000s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "27.jpg",
+    "category": "Nature",
+    "date": "2025-12-30T10:32:56Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/4000s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "53.jpg",
+    "category": "Wildlife, Street",
+    "date": "2025-12-28T18:41:42Z",
+    "exif": {
+      "iso": 1250,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/2.8"
+    }
+  },
+  {
+    "filename": "51.jpg",
+    "category": "Wildlife, Black and White, Street",
+    "date": "2025-12-28T18:41:41Z",
+    "exif": {
+      "iso": 1250,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/2.8"
+    }
+  },
+  {
+    "filename": "49.jpg",
+    "category": "Nature",
+    "date": "2025-12-28T17:12:17Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/4000s",
+      "aperture": "f/13.0"
+    }
+  },
+  {
+    "filename": "47.jpg",
+    "category": "Nature, Landscape",
+    "date": "2025-12-28T17:03:51Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/4000s",
+      "aperture": "f/13.0"
+    }
+  },
+  {
+    "filename": "45.jpg",
+    "category": "People, Architecture",
+    "date": "2025-12-28T15:40:30Z",
+    "exif": {
+      "iso": 1600,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/160s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "43.jpg",
+    "category": "Architecture",
+    "date": "2025-12-28T15:35:24Z",
+    "exif": {
+      "iso": 1600,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/800s",
+      "aperture": "f/13.0"
+    }
+  },
+  {
+    "filename": "37.jpg",
+    "category": "People, Street, Landscape",
+    "date": "2025-12-28T14:29:22Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1600s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "35.jpg",
+    "category": "People, Landscape, Street",
+    "date": "2025-12-28T14:27:43Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1600s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "33.jpg",
+    "category": "Wildlife, Landscape, Street",
+    "date": "2025-12-28T11:31:09Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/400s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "29.jpg",
+    "category": "Black and White",
+    "date": "2025-12-28T11:14:32Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "19.jpg",
+    "category": "Night, Architecture",
+    "date": "2025-12-25T18:32:36Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/15s",
+      "aperture": "f/4.5"
+    }
+  },
+  {
+    "filename": "18.jpg",
+    "category": "Street",
+    "date": "2025-12-25T17:52:50Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/15s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "26.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:47:50Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "23.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:45:56Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "22.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:45:54Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "21.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:45:52Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "20.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:45:02Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "17.jpg",
+    "category": "Architecture",
+    "date": "2025-12-25T12:18:55Z",
+    "exif": {
+      "iso": 320,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2500s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "16.jpg",
+    "category": "Architecture",
+    "date": "2025-12-25T12:18:45Z",
+    "exif": {
+      "iso": 320,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/2500s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "15.jpg",
+    "category": "Landscape, Black and White",
+    "date": "2025-12-24T17:36:53Z",
+    "exif": {
+      "iso": 3200,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "14.jpg",
+    "category": "Black and White, People, Street",
+    "date": "2025-12-24T16:24:04Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/200s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "13.jpg",
+    "category": "Portrait",
+    "date": "2025-12-24T15:32:44Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/160s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "12.jpg",
+    "category": "People, Street",
+    "date": "2025-12-24T15:31:44Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/160s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "11.jpg",
+    "category": "Street, People",
+    "date": "2025-12-24T15:29:40Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/250s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "10.jpg",
+    "category": "Street",
+    "date": "2025-12-24T15:29:04Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/125s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "9.jpg",
+    "category": "Architecture",
+    "date": "2025-12-24T14:34:27Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1000s",
+      "aperture": "f/8.0"
+    }
+  },
+  {
+    "filename": "7.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-24T14:32:59Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/800s",
+      "aperture": "f/8.0"
+    }
+  },
+  {
+    "filename": "8.jpg",
+    "category": "Black and White, People, Street",
+    "date": "2025-12-24T14:32:59Z",
+    "exif": {
+      "iso": 400,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/800s",
+      "aperture": "f/8.0"
+    }
+  },
+  {
+    "filename": "6.jpg",
+    "category": "Street",
+    "date": "2025-12-24T10:02:04Z",
+    "exif": {
+      "iso": 100,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "5.jpg",
+    "category": "Black and White, People, Nature",
+    "date": "2025-12-24T09:33:14Z",
+    "exif": {
+      "iso": 100,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "4.jpg",
+    "category": "Nature",
+    "date": "2025-12-24T06:30:31Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/4000s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "2.jpg",
+    "category": "Black and White, Street",
+    "date": "2025-12-23T19:16:47Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/10s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
     "filename": "DSC03051-Enhanced-NR-2-2.jpg",
     "category": "All",
     "date": "2025-10-22T17:20:18Z",
@@ -66,6 +649,17 @@
     }
   },
   {
+    "filename": "1000202525.jpg",
+    "category": "Macro, Nature",
+    "date": "2025-10-17T17:07:14Z",
+    "exif": {
+      "iso": 2000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/160s",
+      "aperture": ""
+    }
+  },
+  {
     "filename": "DSC02898.jpg",
     "category": "All",
     "date": "2025-10-17T16:53:39Z",
@@ -79,6 +673,17 @@
   {
     "filename": "DSC02895-Enhanced-NR.jpg",
     "category": "All",
+    "date": "2025-10-17T16:53:22Z",
+    "exif": {
+      "iso": 2000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/100s",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "1000202527.jpg",
+    "category": "Macro, Nature",
     "date": "2025-10-17T16:53:22Z",
     "exif": {
       "iso": 2000,
@@ -1617,9 +2222,42 @@
     }
   },
   {
+    "filename": "WhatsApp Image 2024-09-21 at 20.29.57_f6a945a1_ir.jpg",
+    "category": "Abstract, Nature",
+    "date": "2024-10-11T13:06:06.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230718_150835 (1).jpg",
+    "category": "Abstract, Nature",
+    "date": "2024-10-11T12:59:10.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
     "filename": "DSC00904.jpg",
     "category": "All",
     "date": "2024-10-04T18:14:20.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "WhatsApp Image 2024-09-21 at 20.29.57_bc4af5ad.jpg",
+    "category": "Abstract, Nature, Landscape",
+    "date": "2024-10-04T18:08:02.000Z",
     "exif": {
       "iso": "",
       "model": "",
@@ -1911,6 +2549,17 @@
       "model": "ILCE-6100",
       "shutter_speed": "1/80s",
       "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "edit1.jpg",
+    "category": "Abstract, Night, Street",
+    "date": "2024-08-11T06:19:32.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
     }
   },
   {
@@ -2561,5 +3210,3550 @@
       "shutter_speed": "1/2500s",
       "aperture": "f/20.0"
     }
+  },
+  {
+    "filename": "IMG_20240403_161524.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240403_161527.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_164802.jpg",
+    "category": "Abstract",
+    "date": "2024-04-07T16:48:02Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/140s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240403_231422.jpg",
+    "category": "Architecture",
+    "date": "2024-04-03T23:14:22Z",
+    "exif": {
+      "iso": 579,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/30s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240407_164949.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_165004.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_171051.jpg",
+    "category": "Abstract",
+    "date": "2024-04-07T17:10:51Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/220s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240407_165241.jpg",
+    "category": "Architecture",
+    "date": "2024-04-07T16:52:41Z",
+    "exif": {
+      "iso": 116,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240407_171847.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_173902.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_173941.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_174148.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_200518.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_200605.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240407_200633.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240413_230801_844.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240413_230801_922.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240413_233449_669.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_205546.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210014.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210020.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210139.jpg",
+    "category": "Black and White, Architecture, Street",
+    "date": "2024-04-21T21:01:39Z",
+    "exif": {
+      "iso": 262,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240421_210344.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210406.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210423.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210515.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210539.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_210614.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211140.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211236.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211353.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211544.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211614.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211628.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_211858.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_212404.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_212429.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_212640.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_212701.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_213033.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240421_213049.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240422_014430.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240429_175334.jpg",
+    "category": "Nature",
+    "date": "2024-04-29T17:53:34Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240429_175653.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240404210342.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_181234 (1).jpg",
+    "category": "Architecture",
+    "date": "2023-05-13T18:12:35Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20231204_174335.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_174354.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_175759.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_185803.jpg",
+    "category": "Abstract",
+    "date": "2023-12-04T18:58:06Z",
+    "exif": {
+      "iso": 181,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231204_185805.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_191025.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_194950.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_195139.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_195759.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_200037.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_200230.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_200908.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_200944.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_201248_Burst03.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_213102.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_213249_1.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231204_220826.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_151619.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_153910.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155004 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155107 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155107.jpg",
+    "category": "Portrait",
+    "date": "2023-12-05T15:51:09Z",
+    "exif": {
+      "iso": 262,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231205_155359.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155528.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155544.jpg",
+    "category": "Macro",
+    "date": "2023-12-05T15:55:45Z",
+    "exif": {
+      "iso": 353,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231205_155736.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_155806.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_160132.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_161312.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_161512.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_161611.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_161840.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_162108.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_162326.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_162813.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_163646.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231205_164105.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231221_180145.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_160053.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_160324.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_160407.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_160943.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_163413.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231222_163948.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_115437.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_115755.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_120834.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_122831.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_125247.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_125949.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_145800.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_145834.jpg",
+    "category": "Wildlife",
+    "date": "2023-12-23T14:58:35Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/210s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_155521.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_163607.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_163612.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_163754.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_163904.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_164049.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_164950.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_165200.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_165242.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_165613.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094752_1.jpg",
+    "category": "Architecture",
+    "date": "2024-01-21T09:47:54Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/5500s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_170156.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T17:01:57Z",
+    "exif": {
+      "iso": 98,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_170148.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T17:01:49Z",
+    "exif": {
+      "iso": 98,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_170121.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T17:01:23Z",
+    "exif": {
+      "iso": 98,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_165707.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T16:57:09Z",
+    "exif": {
+      "iso": 106,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_165647.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T16:56:48Z",
+    "exif": {
+      "iso": 106,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_165726.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_165854.jpg",
+    "category": "Nature, Wildlife",
+    "date": "2023-12-23T16:58:55Z",
+    "exif": {
+      "iso": 178,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_165938.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170011.jpg",
+    "category": "Nature",
+    "date": "2023-12-23T17:00:12Z",
+    "exif": {
+      "iso": 168,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231223_170211.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170220.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170247.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170259.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170303.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170318.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170332.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170351.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170505.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231223_170836.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231225_211419.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "1.jpg",
+    "category": "Street, People",
+    "date": "2025-12-23T18:05:04Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/5.6"
+    }
+  },
+  {
+    "filename": "24.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "25.jpg",
+    "category": "Wildlife",
+    "date": "2025-12-25T13:47:19Z",
+    "exif": {
+      "iso": 800,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/30s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "3.jpg",
+    "category": "Street, Architecture",
+    "date": "2025-12-23T19:35:06Z",
+    "exif": {
+      "iso": 1000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/13s",
+      "aperture": "f/4.0"
+    }
+  },
+  {
+    "filename": "IMG_20240222_112413.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240223_215621 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240223_215621.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_022432.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_022440.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_022658.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_023535.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_024158.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_024354.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_024500.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030319.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030327.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030349.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030422.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030501.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_030541.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_033953.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_154147.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240106_154212.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_220150.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_220726.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_220924.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_221318.jpg",
+    "category": "Architecture, Black and White",
+    "date": "2024-01-07T22:13:24Z",
+    "exif": {
+      "iso": 608,
+      "model": "I2202",
+      "shutter_speed": "1/25s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240107_221754.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_221842.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_221931.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_222300.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_222323.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_222859.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_222945.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_224010.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_224045.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_224107.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_224344.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_231944.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_232052.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_232117.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240107_233112.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_184022.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_184645.jpg",
+    "category": "Architecture, Abstract",
+    "date": "2024-01-12T18:46:54Z",
+    "exif": {
+      "iso": 187,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_184600.jpg",
+    "category": "People, Black and White",
+    "date": "2024-01-12T18:46:01Z",
+    "exif": {
+      "iso": 400,
+      "model": "I2202",
+      "shutter_speed": "1/35s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_184454.jpg",
+    "category": "Black and White, People, Street",
+    "date": "2024-01-12T18:44:55Z",
+    "exif": {
+      "iso": 156,
+      "model": "I2202",
+      "shutter_speed": "1/110s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_184734.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_184941.jpg",
+    "category": "People, Architecture, Abstract",
+    "date": "2024-01-12T18:49:44Z",
+    "exif": {
+      "iso": 220,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_185136.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_185257.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_190109.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192012.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192044.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192113_1.jpg",
+    "category": "People, Street",
+    "date": "2024-01-12T19:21:15Z",
+    "exif": {
+      "iso": 220,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_192229_Burst06.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192447.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192540.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192704.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192808.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_192830.jpg",
+    "category": "Black and White, Night, Architecture",
+    "date": "2024-01-12T19:28:34Z",
+    "exif": {
+      "iso": 163,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_192812.jpg",
+    "category": "Architecture, Night",
+    "date": "2024-01-12T19:28:15Z",
+    "exif": {
+      "iso": 87,
+      "model": "I2202",
+      "shutter_speed": "1/220s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_192939.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_194304.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_194429.jpg",
+    "category": "People, Night, Street",
+    "date": "2024-01-12T19:44:30Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/500s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_195034.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_195040.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_195114.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_195359.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_201611.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_202107.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203045.jpg",
+    "category": "Architecture, Night, Street",
+    "date": "2024-01-12T20:30:47Z",
+    "exif": {
+      "iso": 156,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240112_203137.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203157.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203212.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203258.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203324.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203950.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240112_203954.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_092944.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094034.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094331.jpg",
+    "category": "Architecture, Street",
+    "date": "2024-01-21T09:43:32Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/3700s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_094129.jpg",
+    "category": "Black and White, People, Street",
+    "date": "2024-01-21T09:41:30Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/1900s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_094123.jpg",
+    "category": "People, Black and White, Street",
+    "date": "2024-01-21T09:41:24Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/1900s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_094521.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094525.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094610.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094659.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_094752.jpg",
+    "category": "Architecture",
+    "date": "2024-01-21T09:47:53Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/5500s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_095105.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_100800.jpg",
+    "category": "Architecture",
+    "date": "2024-01-21T10:08:01Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/2500s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_100924.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_100927.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_101511.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_102055.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_103118.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_105120.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_105356.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_110149.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_110610.jpg",
+    "category": "People, Street, Black and White",
+    "date": "2024-01-21T11:06:11Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/180s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_114148.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_114314.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_114439.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_114543.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_120711.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_125729.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_125907.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_130345.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_132113.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_132850.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240229_181123.jpg",
+    "category": "Nature",
+    "date": "2024-02-29T18:11:23Z",
+    "exif": {
+      "iso": 114,
+      "model": "I2202",
+      "shutter_speed": "1/120s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_133423.jpg",
+    "category": "Portrait",
+    "date": "2024-01-21T13:34:23Z",
+    "exif": {
+      "iso": 160,
+      "model": "I2202",
+      "shutter_speed": "1/80s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_133622.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_133656.jpg",
+    "category": "Portrait",
+    "date": "2024-01-21T13:36:57Z",
+    "exif": {
+      "iso": 309,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_133710.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_133958.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_134457.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_140943.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_142449.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_143042.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_143621.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_154410.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_154608.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_161528.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_161610.jpg",
+    "category": "Architecture",
+    "date": "2024-01-21T16:16:10Z",
+    "exif": {
+      "iso": 125,
+      "model": "I2202",
+      "shutter_speed": "1/800s",
+      "aperture": "f/2.2"
+    }
+  },
+  {
+    "filename": "IMG_20240121_161810.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_162405.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_162450.jpg",
+    "category": "People, Street, Architecture",
+    "date": "2024-01-21T16:24:51Z",
+    "exif": {
+      "iso": 52,
+      "model": "I2202",
+      "shutter_speed": "1/150s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240121_162947.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_163442.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_190833.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_190941.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_191131.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_191409.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_192010.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_192109.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_192837.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240121_193610.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "lmaolmao.jpg",
+    "category": "People, Black and White",
+    "date": "2025-01-26T12:43:42.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "39.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "40.jpg",
+    "category": "People, Nature",
+    "date": "2025-12-30T14:39:40Z",
+    "exif": {
+      "iso": 640,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/640s",
+      "aperture": "f/6.3"
+    }
+  },
+  {
+    "filename": "41.jpg",
+    "category": "Architecture",
+    "date": "2025-12-28T15:34:42Z",
+    "exif": {
+      "iso": 1600,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/800s",
+      "aperture": "f/11.0"
+    }
+  },
+  {
+    "filename": "IMG-20240608-WA0025.jpg",
+    "category": "Nature",
+    "date": "2024-08-01T18:21:54.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG-20240608-WA0045.jpg",
+    "category": "Night",
+    "date": "2024-08-01T18:21:54.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20240617_130232.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "Lightroom_edited.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG-20240321-WA0019.jpg",
+    "category": "Nature",
+    "date": "2024-08-01T18:21:54.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG-20240322-WA0000.jpg",
+    "category": "Architecture, Black and White",
+    "date": "2024-08-01T18:21:54.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20240229_180725 (1).jpg",
+    "category": "Nature",
+    "date": "2024-02-29T18:07:28Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/180s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240303_212855.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240308_123032.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_171841.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_172003.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173946.jpg",
+    "category": "Nature",
+    "date": "2024-03-22T17:39:46Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/43000s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_172229.jpg",
+    "category": "Nature",
+    "date": "2024-03-22T17:22:29Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/530s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_172037.jpg",
+    "category": "Nature",
+    "date": "2024-03-22T17:20:37Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/54000s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_172350.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173116.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173144.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173313.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173336.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173447.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_173603.jpg",
+    "category": "Architecture",
+    "date": "2024-03-22T17:36:03Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/950s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_174030.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_174148.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_174555.jpg",
+    "category": "Nature",
+    "date": "2024-03-22T17:45:55Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/1000s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_174900.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_180028.jpg",
+    "category": "Architecture, Nature",
+    "date": "2024-03-22T18:00:28Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/18000s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_180220.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240322_182913.jpg",
+    "category": "Architecture",
+    "date": "2024-03-22T18:29:13Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/150s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_182854.jpg",
+    "category": "Nature, Architecture",
+    "date": "2024-03-22T18:28:54Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/120s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240322_183340.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240322221254.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240322221546.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240322221618.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240322221647.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "instasize_240322221723.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240510_151750.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240510_151817.jpg",
+    "category": "Nature",
+    "date": "2024-05-10T15:18:17Z",
+    "exif": {
+      "iso": 50,
+      "model": "iQOO Neo6",
+      "shutter_speed": "1/1900s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20240510_151913.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240510_152317.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240516_181918 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20240531_230647.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231102_223202.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_153922.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_160706.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_161639.jpg",
+    "category": "Nature",
+    "date": "2023-11-05T16:16:40Z",
+    "exif": {
+      "iso": 160,
+      "model": "I2202",
+      "shutter_speed": "1/2000s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_161749.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_163000.jpg",
+    "category": "Nature, Macro",
+    "date": "2023-11-05T16:30:00Z",
+    "exif": {
+      "iso": 160,
+      "model": "I2202",
+      "shutter_speed": "1/640s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_162429.jpg",
+    "category": "Nature",
+    "date": "2023-11-05T16:24:29Z",
+    "exif": {
+      "iso": 160,
+      "model": "I2202",
+      "shutter_speed": "1/6400s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_162426.jpg",
+    "category": "Nature",
+    "date": "2023-11-05T16:24:26Z",
+    "exif": {
+      "iso": 160,
+      "model": "I2202",
+      "shutter_speed": "1/6400s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_163331.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_163504.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_163546.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_164325.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_164520.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_164548.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_164840.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_165648.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_162438_Burst01.jpg",
+    "category": "Macro, Nature",
+    "date": "2023-11-11T16:24:38Z",
+    "exif": {
+      "iso": 73,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_162350.jpg",
+    "category": "Macro, Nature",
+    "date": "2023-11-11T16:23:51Z",
+    "exif": {
+      "iso": 70,
+      "model": "I2202",
+      "shutter_speed": "1/105s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_162300.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T16:23:01Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/220s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_162111.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T16:21:11Z",
+    "exif": {
+      "iso": 200,
+      "model": "I2202",
+      "shutter_speed": "1/640s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_160217.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T16:02:19Z",
+    "exif": {
+      "iso": 258,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_155957.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:59:58Z",
+    "exif": {
+      "iso": 66,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_155838.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:58:39Z",
+    "exif": {
+      "iso": 342,
+      "model": "I2202",
+      "shutter_speed": "1/50s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_170229.jpg",
+    "category": "Black and White",
+    "date": "2023-11-05T17:02:31Z",
+    "exif": {
+      "iso": 216,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_170331.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_170544.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_170937.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_155458.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:54:59Z",
+    "exif": {
+      "iso": 254,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_155256.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:52:57Z",
+    "exif": {
+      "iso": 75,
+      "model": "I2202",
+      "shutter_speed": "1/140s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_170959.jpg",
+    "category": "Abstract, Street",
+    "date": "2023-11-05T17:09:59Z",
+    "exif": {
+      "iso": 100,
+      "model": "I2202",
+      "shutter_speed": "1/3200s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_171016.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_171338.jpg",
+    "category": "Black and White, Architecture",
+    "date": "2023-11-05T17:13:38Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/1250s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_171406 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_171406.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_155426.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:54:28Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/170s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_154735.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:47:36Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/240s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_171507.jpg",
+    "category": "Nature, Macro",
+    "date": "2023-11-05T17:15:07Z",
+    "exif": {
+      "iso": 189,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_171518.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_171729.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_171828.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_171907.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_172144.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_172910.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_154341.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:43:42Z",
+    "exif": {
+      "iso": 50,
+      "model": "I2202",
+      "shutter_speed": "1/125s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_173019.jpg",
+    "category": "Nature",
+    "date": "2023-11-05T17:30:19Z",
+    "exif": {
+      "iso": 125,
+      "model": "I2202",
+      "shutter_speed": "1/2500s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231105_173130.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_173411.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231105_221245.jpg",
+    "category": "People, Night",
+    "date": "2023-11-05T22:12:47Z",
+    "exif": {
+      "iso": 345,
+      "model": "I2202",
+      "shutter_speed": "1/35s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_152434.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_152842.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_154106.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T15:41:08Z",
+    "exif": {
+      "iso": 68,
+      "model": "I2202",
+      "shutter_speed": "1/290s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_160400.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_160603.jpg",
+    "category": "Macro",
+    "date": "2023-11-11T16:06:03Z",
+    "exif": {
+      "iso": 200,
+      "model": "I2202",
+      "shutter_speed": "1/200s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_162504_Burst01.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_162504_Burst03.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_162514_Burst04.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_162526_Burst02.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_162813.jpg",
+    "category": "Macro, People",
+    "date": "2023-11-11T16:28:14Z",
+    "exif": {
+      "iso": 236,
+      "model": "I2202",
+      "shutter_speed": "1/100s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231111_165439.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_172519.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_173743.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231111_174511.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201518.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201618_Burst11.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201641_Burst02.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201646_Burst15.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201646_Burst18.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201646_Burst20.jpg",
+    "category": "Night",
+    "date": "2023-11-12T20:16:48Z",
+    "exif": {
+      "iso": 633,
+      "model": "I2202",
+      "shutter_speed": "1/35s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231112_201654_Burst05.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201659_Burst05.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201723_Burst02.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_201724_Burst01.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_202102.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_202103.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_205303.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210436.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210438.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210628.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210827.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210917.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_210959.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_211247.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_211249.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231112_211251.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "1000202502.jpg",
+    "category": "Macro, Nature",
+    "date": "2025-01-13T16:59:16Z",
+    "exif": {
+      "iso": 5000,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/500s",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "1000202504.jpg",
+    "category": "Macro, Nature",
+    "date": "2025-01-13T16:47:13Z",
+    "exif": {
+      "iso": 2500,
+      "model": "ILCE-6100",
+      "shutter_speed": "1/500s",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230627_173407 (1).jpg",
+    "category": "Abstract, Landscape",
+    "date": "2024-10-11T12:51:42.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "pic1.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "pic2.jpg",
+    "category": "People, Night",
+    "date": "2024-10-07T11:43:06.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "pic3.jpg",
+    "category": "People, Abstract, Night",
+    "date": "2024-10-07T11:43:02.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "WhatsApp Image 2024-09-21 at 20.29.54_15357145.jpg",
+    "category": "Abstract, Nature",
+    "date": "2024-10-04T18:04:30.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "WhatsApp Image 2024-09-21 at 20.29.57_f6a945a1.jpg",
+    "category": "Abstract, Nature",
+    "date": "2024-10-04T18:01:56.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "WhatsApp Image 2024-10-04 at 18.17.07_b4c83b69.jpg",
+    "category": "Abstract, Nature",
+    "date": "2024-10-04T17:54:58.000Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG-20230716-WA0048.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG-20230717-WA0011.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230430_183629.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230501_155800.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230501_210446.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230501_211519.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230503_215224 (1).jpg",
+    "category": "Architecture",
+    "date": "2023-05-03T21:52:26Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230503_215243.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230503_215609.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230503_225506 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230503_225750.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_150235.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_160609 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_161857 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_161900 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_182410 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_190115 (1).jpg",
+    "category": "Black and White, Street",
+    "date": "2023-05-05T19:01:20Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230505_191013 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230505_210334 (1).jpg",
+    "category": "Black and White, Architecture, Street",
+    "date": "2023-05-05T21:03:35Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230505_210434 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230506_000127.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230506_000156.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230506_000159.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230507_222917.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230509_075008.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230509_173557.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_204812.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_205018 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_205205 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_205315 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230513_205349 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230603_211240.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230603_230340 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230612_003536 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230612_004101 (2).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230625_173434.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_064353.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_160449.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_160751.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_163611.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_163642.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_183340.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230626_193134.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_123340 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_123955 (1).jpg",
+    "category": "Nature",
+    "date": "2023-06-27T12:39:56Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230627_125101 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_130633 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_130901 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_131121 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_132118 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_135109 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_135344 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_140209 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_155217 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_155531 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_155546 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_155952 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_164223 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_172052 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_181536 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_182321 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230627_193332 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_171040.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_172853.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_174111.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_184624.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_184654.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_184704.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_184903.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_190013.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_190139 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_190139.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_190353.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230628_190611.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230629_124955.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230704_174840 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230710_204838.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230710_204856 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230715_184351 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230715_184421.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230715_184738 (2).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230715_185644 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230715_221129 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_075050 (2).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_075119 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_075132.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_075838 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_075858 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_080858.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_080900.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_081626 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230716_165756.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_154857 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_162603 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_164456 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_165109.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_170547.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_170901 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_171502 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_171807 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_171930 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_172318 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_172548 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_172744 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_174532 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_180605 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_181243 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_181426 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230717_182903.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_144412 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_145042.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_150834 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_151518 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_153940 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_154939.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_154942.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_163459 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_164635 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_165258 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_190354 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_191308 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_195024 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230718_195251 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_082418 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_095115 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_103344.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_104324 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_140607 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_144913 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_145615 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_145923.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_150040.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_153722 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_153733 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_154221.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_161829 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_165336 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_165404 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_165701 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_165725 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_170607 (1).jpg",
+    "category": "Nature",
+    "date": "2023-07-19T17:06:08Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230719_170835 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_171627.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_171759.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_172226 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230719_173523 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230729_171412.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230801_180921.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230801_225547.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230801_231055.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230802_213401.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230802_213420.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230804_191126.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230804_211604.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230805_210813.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230805_210818.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230805_210833.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230805_211839.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230805_220534.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230806_005508.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230806_183911.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230806_185734.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230807_185514.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230812_160639.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_220821.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_220834.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_220940.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_221223.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_221319.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_224418.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230813_224442.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230820_113337.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230820_120308.jpg",
+    "category": "Street",
+    "date": "2023-08-20T12:03:09Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "IMG_20230830_190635 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_215249 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_222423 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_222439 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_224748 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_225028 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230830_231056 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_234320 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_234508 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_234857 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_234902 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_235158 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_235427 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_235553 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230831_235815 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_000024 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_000554 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_001402 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_001441 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_001726 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_001802 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230901_001811 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230924_214743 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230924_215419 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230924_215702 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230924_232541 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20230927_200447.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_195417 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_195454 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_195611 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_195715 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_200138 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_200142 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_200214 (2).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_200214 (3).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_201038 (2).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_201038 (3).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_201217 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231008_201245 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231010_163010.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231010_163034.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_213210.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_213212.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_213239 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_213239.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_223103.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231122.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231221.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231222.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231236.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231301.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_231433.jpg",
+    "category": "Street, Night",
+    "date": "2023-10-13T23:14:33Z",
+    "exif": {
+      "iso": 639,
+      "model": "I2202",
+      "shutter_speed": "1/40s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231013_231515.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_232248.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_232310.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_232313.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_233638.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_233734.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_234823.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235149.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235200.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235547.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235603.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235710.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231013_235752.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000009.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000012 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000012.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000146.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000212.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000414.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000417.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000523.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000945.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_000951.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001125.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001220.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001240.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001337.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001711.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001757.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001811.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001930.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_001957.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_002029.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_002136.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_002245.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_003539.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_003906 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_003906.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_003955.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004016.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004135.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004315.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004443.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004538.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004639.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004924.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_004954.jpg",
+    "category": "Abstract, Architecture, Night, Street",
+    "date": "2023-10-14T00:49:59Z",
+    "exif": {
+      "iso": 409,
+      "model": "I2202",
+      "shutter_speed": "1/25s",
+      "aperture": "f/1.9"
+    }
+  },
+  {
+    "filename": "IMG_20231014_005253.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_152212.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_161306.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231014_164223.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231021_180844.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231021_180918.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231021_183424.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231021_213145.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231021_232824.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_174352.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_212119.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_212301.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_212320.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_221404.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_221426.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_221433.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231022_221525.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231024_170118(1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231024_170941.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_005214.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_005243.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_010543.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_190008.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_190038.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_192958.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_193224.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "IMG_20231030_193943.jpg",
+    "skipped": true
+  },
+  {
+    "filename": "Screenshot_20230720_005812 (1).jpg",
+    "skipped": true
+  },
+  {
+    "filename": "Screenshot_20230720_010135 (1).jpg",
+    "category": "Nature",
+    "date": "2023-07-20T01:01:35Z",
+    "exif": {
+      "iso": "",
+      "model": "",
+      "shutter_speed": "",
+      "aperture": ""
+    }
+  },
+  {
+    "filename": "edit2.jpg",
+    "skipped": true
   }
 ]
