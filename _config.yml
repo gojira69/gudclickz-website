@@ -20,10 +20,10 @@ web_design: "AJ"
 
 social_urls:
   twitter: ""
-  instagram: ""
+  instagram: "https://www.instagram.com/gudclickz/"
   dribbble: ""
-  linkedin: ""
-  github: ""
+  linkedin: "https://www.linkedin.com/in/sriharsha-medicherla-8b621b25a/"
+  github: "https://github.com/gojira69"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
