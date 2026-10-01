@@ -174,9 +174,9 @@ app.post('/process', async (req, res) => {
             await sharp(filepath).resize(512, null, { withoutEnlargement: true }).jpeg({ quality: 70 }).toFile(thumbPath);
             
             const tags = await ExifReader.load(filepath);
-            let date = tags['DateTimeOriginal'] ? tags['DateTimeOriginal'].description : null;
+            let date = tags['DateTime'] ? tags['DateTime'].description : (tags['ModifyDate'] ? tags['ModifyDate'].description : null);
             if (date && date.includes(':')) {
-                const parts = date.split(' ');
+                const parts = date.trim().split(' ');
                 if (parts.length > 1) date = parts[0].replace(/:/g, '-') + 'T' + parts[1] + 'Z';
             }
 

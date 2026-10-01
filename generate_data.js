@@ -18,11 +18,10 @@ async function extractExif() {
         try {
             const tags = await ExifReader.load(filePath);
             
-            let date = tags['DateTimeOriginal'] ? tags['DateTimeOriginal'].description : null;
+            // Time modified: check EXIF DateTime (modify date), then ModifyDate, then file mtime
+            let date = tags['DateTime'] ? tags['DateTime'].description : (tags['ModifyDate'] ? tags['ModifyDate'].description : null);
             if (date && date.includes(':')) {
-                // EXIF date is "YYYY:MM:DD HH:MM:SS", we should parse it for sorting
-                // Let's keep the raw for now or format it
-                const parts = date.split(' ');
+                const parts = date.trim().split(' ');
                 if (parts.length > 1) {
                     date = parts[0].replace(/:/g, '-') + 'T' + parts[1] + 'Z';
                 }
