@@ -42,50 +42,52 @@ layout: default
                 <section>
                     <h2>{{ site.footer.name }}</h2>
                     <p>{{ site.footer.bio }}</p>
-                    <p>{{ site.footer.github }}</p>
+                    {% if site.footer.github and site.footer.github != "" %}
+                        <p><i class="fab fa-github"></i> <a href="https://github.com/{{ site.footer.github }}" target="_blank" rel="noopener noreferrer">{{ site.footer.github }}</a></p>
+                    {% endif %}
                 </section>
 
                 <section>
                     <h2>Follow me on ...</h2>
                     <ul class="icons">
-                        {% if site.social_urls.facebook %}
+                        {% if site.social_urls.facebook and site.social_urls.facebook != "" %}
                             <li>
-                                <a href="{{ site.social_urls.facebook }}" class="icon brands fa-facebook">
+                                <a href="{{ site.social_urls.facebook }}" class="icon brands fa-facebook-f" target="_blank" rel="noopener noreferrer" title="Facebook">
                                     <span class="label">Facebook</span>
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.twitter %}
+                        {% if site.social_urls.twitter and site.social_urls.twitter != "" %}
                             <li>
-                                <a href="{{ site.social_urls.twitter }}" class="icon brands fa-twitter">
+                                <a href="{{ site.social_urls.twitter }}" class="icon brands fa-twitter" target="_blank" rel="noopener noreferrer" title="Twitter">
                                     <span class="label">Twitter</span>
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.instagram %}
+                        {% if site.social_urls.instagram and site.social_urls.instagram != "" %}
                             <li>
-                                <a href="{{ site.social_urls.instagram }}" class="icon brands fa-instagram">
+                                <a href="{{ site.social_urls.instagram }}" class="icon brands fa-instagram" target="_blank" rel="noopener noreferrer" title="Instagram">
                                     <span class="label">Instagram</span>
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.dribbble %}
+                        {% if site.social_urls.dribbble and site.social_urls.dribbble != "" %}
                             <li>
-                                <a href="{{ site.social_urls.dribbble }}" class="icon brands fa-dribbble">
+                                <a href="{{ site.social_urls.dribbble }}" class="icon brands fa-dribbble" target="_blank" rel="noopener noreferrer" title="Dribbble">
                                     <span class="label">Dribbble</span>
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.github %}
+                        {% if site.social_urls.github and site.social_urls.github != "" %}
                             <li>
-                                <a href="{{ site.social_urls.github }}" class="icon brands fa-github">
+                                <a href="{{ site.social_urls.github }}" class="icon brands fa-github" target="_blank" rel="noopener noreferrer" title="GitHub">
                                     <span class="label">GitHub</span>
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.linkedin %}
+                        {% if site.social_urls.linkedin and site.social_urls.linkedin != "" %}
                             <li>
-                                <a href="{{ site.social_urls.linkedin }}" class="icon brands fa-linkedin">
+                                <a href="{{ site.social_urls.linkedin }}" class="icon brands fa-linkedin-in" target="_blank" rel="noopener noreferrer" title="LinkedIn">
                                     <span class="label">LinkedIn</span>
                                 </a>
                             </li>
@@ -99,23 +101,76 @@ layout: default
             <div>
                 <section>
                     <h2>Get in touch</h2>
-                    <form method="post" action="#">
+                    <form method="post" action="https://formsubmit.co/sriharsha4002@gmail.com" id="contact-form">
+                        <input type="hidden" name="_subject" value="New message from Gudclickz website!">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_template" value="table">
                         <div class="fields">
                             <div class="field half">
-                                <input type="text" name="name" id="name" placeholder="Name" />
+                                <input type="text" name="name" id="name" placeholder="Name" required />
                             </div>
                             <div class="field half">
-                                <input type="text" name="email" id="email" placeholder="Email" />
+                                <input type="email" name="email" id="email" placeholder="Email" required />
                             </div>
                             <div class="field">
-                                <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+                                <textarea name="message" id="message" rows="4" placeholder="Message" required></textarea>
                             </div>
                         </div>
                         <ul class="actions">
-                            <li><input type="submit" value="Send" class="primary" /></li>
+                            <li><input type="submit" value="Send" class="primary" id="contact-submit" /></li>
                             <li><input type="reset" value="Reset" /></li>
                         </ul>
+                        <div id="form-status" style="margin-top: 1em; display: none; font-size: 0.95em; font-weight: bold;"></div>
                     </form>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function() {
+                            var form = document.getElementById("contact-form");
+                            if (!form) return;
+                            var status = document.getElementById("form-status");
+                            var submitBtn = document.getElementById("contact-submit");
+
+                            form.addEventListener("submit", function(e) {
+                                e.preventDefault();
+                                var origText = submitBtn.value;
+                                submitBtn.value = "Sending...";
+                                submitBtn.disabled = true;
+                                status.style.display = "none";
+
+                                var data = {
+                                    name: form.name.value,
+                                    email: form.email.value,
+                                    message: form.message.value,
+                                    _subject: "New message from Gudclickz website!"
+                                };
+
+                                fetch("https://formsubmit.co/ajax/sriharsha4002@gmail.com", {
+                                    method: "POST",
+                                    headers: {
+                                        'Content-Type': 'application/json',
+                                        'Accept': 'application/json'
+                                    },
+                                    body: JSON.stringify(data)
+                                })
+                                .then(function(response) {
+                                    if (response.ok) {
+                                        form.reset();
+                                        status.style.display = "block";
+                                        status.style.color = "#47c5ab";
+                                        status.innerHTML = "✓ Message sent successfully! I'll get back to you soon.";
+                                    } else {
+                                        form.submit();
+                                    }
+                                })
+                                .catch(function() {
+                                    form.submit();
+                                })
+                                .finally(function() {
+                                    submitBtn.value = origText;
+                                    submitBtn.disabled = false;
+                                });
+                            });
+                        });
+                    </script>
                 </section>
             </div>
         </div>
